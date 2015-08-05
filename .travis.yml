@@ -9,7 +9,7 @@ deploy:
   api_key:
     secure: pi9Dq6pLFDyOEN6axre5umgHMlCfue74al/uR8fWP+uacWaXQ40YKUON8ql/bus6fnMA/cLhcwAMfhzDNAP/UoIWrgKHoVcGJ6BdPpvPkd+VIS/CKzANbSKQLvfw00TJHs8RiGu3nI5q3NON28U96A0Q7VLGcsPC1srBwsB/yMCcn1bhqkGBfbbwq6bmeiN/75ZomDBDrOJtmZGL3TkcPNiVhZuf+wTawbJxvLSbJGKgP/kBB62225OFBFfUETx5ZrsFyVsG//Hh46evjmkrxfZsD1OMj5Xs9gCXkq7QZF8pPzUbHxTxccfup1Hl72fKz1+ezZVk7aEk7pLjX5xq+W1SYJW4mobUcqYxAPxLrBjomYfe5c+CuPWdibAIFT2a/OniCL8yNTY2CZGMGRayg0QaX3AYxlKA6w7OUymF6T6EoYns+YiNs5yekklut4mQlxl90SVKqCIkSund8GlYbPuCve22c4kX8jaWu3uX7oncOoGMcn2CBmcvp81tHstDSBJWQulnL95wIjr1/4gc1LsgW3eK79H7xO1zKsFdMp+46qL2kG7xEZoAyJm1PmYBkwlzpjVzqFEPq/bukuAmfVAX0khQEm8rkwbFRKkEUvWt93G3shIC1c+KbTXg+HponsP1Y4EFOpzeNzvk1UYi5kiQNvCMh61n2e0hpquHz3I=
   file:
-    - build/*.pdf
+    - build/test.pdf
   skip_cleanup: true
   on:
     tags: true
